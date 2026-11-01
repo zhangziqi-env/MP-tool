@@ -1,0 +1,21 @@
+# Citation metadata for MP Label-V1.
+# Replace the entity author with your own name/institution if you prefer a personal citation.
+cff-version: 1.2.0
+message: "If you use MP Label-V1 in your work, please cite it using the metadata below."
+title: "MP Label-V1"
+abstract: "A local Windows desktop tool for annotating microplastic particles in microscopy images, including type/judgment/colour records, depth grouping, lasso batch annotation, ID management and Excel/Word export with full-resolution images."
+authors:
+  - name: "MP Label-V1 contributors"
+version: "1.0.0"
+date-released: "2026-11-01"
+license: "GPL-3.0-only"
+repository-code: "https://github.com/your-name/MP-Label-V1"
+type: software
+keywords:
+  - "microplastics"
+  - "image annotation"
+  - "microscopy"
+  - "tkinter"
+  - "python"
+  - "Windows"
+  - "scientific software"

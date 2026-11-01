@@ -21,7 +21,8 @@ The program runs fully offline; images and annotation data stay on the local mac
 | `User-Guide-EN.md` | English user guide |
 | `使用说明.md` | Chinese user guide |
 | `requirements.txt` | Dependencies for the Python source |
-| `LICENSE` | MIT License |
+| `CITATION.cff` | Citation metadata |
+| `LICENSE` | GNU GPL v3 license text |
 
 ### Quick start
 
@@ -76,7 +77,15 @@ Requires Windows 10/11, Python 3.10+, with Tcl/Tk (the python.org installer incl
 
 ### License
 
-MIT License. See [LICENSE](LICENSE).
+GNU General Public License v3.0（GPL-3.0-only）. See [LICENSE](LICENSE).
+
+Copyright (C) 2026 MP Label-V1 contributors.
+
+If you redistribute a modified version or an exe, the GPL requires you to make the corresponding source code available.
+
+### Citation
+
+If you use MP Label-V1 in your work, citation metadata is provided in [CITATION.cff](CITATION.cff).
 
 ---
 
@@ -97,7 +106,8 @@ MP Label-V1 是一个面向**微塑料显微图像**的 Windows 桌面标注工�
 | `User-Guide-EN.md` | 英文使用说明 |
 | `使用说明.md` | 中文使用说明 |
 | `requirements.txt` | 运行 Python 源码所需依赖 |
-| `LICENSE` | MIT 许可证 |
+| `CITATION.cff` | 引用信息 |
+| `LICENSE` | GNU GPL v3 许可证全文 |
 
 ### 快速开始
 
@@ -152,4 +162,12 @@ python "MP Label-V1_中文版.py"
 
 ### 许可证
 
-MIT License，见 [LICENSE](LICENSE)。
+GNU General Public License v3.0（GPL-3.0-only），见 [LICENSE](LICENSE)。
+
+Copyright (C) 2026 MP Label-V1 contributors。
+
+如果重新分发修改版或 exe，GPL 要求同时提供对应源码或源码获取方式。
+
+### 引用
+
+如果 MP Label-V1 对你的工作有帮助，引用信息见 [CITATION.cff](CITATION.cff)。
