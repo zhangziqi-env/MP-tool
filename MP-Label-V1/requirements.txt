@@ -1,0 +1,5 @@
+# MP Label-V1 runtime dependencies
+# Tested with Python 3.12 on Windows.
+Pillow==12.3.0
+openpyxl==3.1.5
+python-docx==1.2.0
