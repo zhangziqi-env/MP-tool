@@ -22,11 +22,7 @@ A local Windows application for annotating microplastic particles in microscopy 
 
 ### What's next
 
-I plan to publish a series of small tools around the microplastics workflow, for example:
-
-- image annotation and particle measurement
-- data cleaning and statistics
-- report generation and repetitive lab tasks
+I plan to publish a series of small tools around the microplastics workflow.
 
 If you work with microplastics and have a repetitive task that could be simplified, feel free to open an issue in the project repository.
 
@@ -34,7 +30,7 @@ If you work with microplastics and have a repetitive task that could be simplifi
 
 ## 中文
 
-我平时处理微塑料样品和显微图像。**MP Label-V1** 是我的第一个小软件，后续还会发布一系列面向微塑料工作流程的小工具。
+**MP Label-V1** 是我的第一个小软件，后续还会发布一系列面向微塑料工作流程的小工具。
 
 ### 当前项目：MP Label-V1
 
@@ -50,10 +46,6 @@ If you work with microplastics and have a repetitive task that could be simplifi
 
 ### 后续计划
 
-我计划围绕微塑料工作流程发布一系列小工具，例如：
-
-- 图像标注与颗粒测量
-- 数据清理与统计
-- 报告生成与重复性实验室任务
+我计划围绕微塑料工作流程发布一系列小工具。
 
 如果你也在做微塑料相关的工作，有希望简化的重复操作，欢迎在项目仓库里提 Issue。
