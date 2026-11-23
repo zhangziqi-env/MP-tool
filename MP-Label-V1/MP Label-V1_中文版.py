@@ -246,7 +246,8 @@ def redraw_canvas(event=None):
 
     current_path = image_paths[current_idx]
     current_marks = marks_dict.get(current_path, [])
-    show_text = canvas_scale >= 0.35
+    # 始终显示编号及类型/判断/备注/颜色
+    show_text = True
     radius = max(8, min(24, int(round(14 * (canvas_scale ** 0.25)))))
 
     for m in current_marks:
